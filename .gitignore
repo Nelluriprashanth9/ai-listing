@@ -1,0 +1,23 @@
+# Node
+node_modules/
+.env
+*.log
+
+# Next.js
+.next/
+out/
+/dist/
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+coverage/
